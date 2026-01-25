@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zClawM",
+  "name": "zClawM",
+  "description": "Best Free Hack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["oRee Scripter"],
+  "credits": "oRee Scripter",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
